@@ -1,0 +1,57 @@
+[
+  {
+    "pergunta": "Qual é a principal característica das árvores de mangue?",
+    "opcoes": [
+      "Possuem raízes que crescem para cima, chamadas pneumatóforos.",
+      "Produzem frutos comestíveis para a maioria dos animais.",
+      "Têm folhas que mudam de cor no outono.",
+      "São árvores de pequeno porte que não ultrapassam 2 metros de altura."
+    ],
+    "respostaCorreta": "Possuem raízes que crescem para cima, chamadas pneumatóforos.",
+    "curiosidade": "Os pneumatóforos ajudam as árvores de mangue a respirar em solos alagados e com pouco oxigênio."
+  },
+  {
+    "pergunta": "O caranguejo-uçá, uma espécie comum em manguezais, é conhecido por:",
+    "opcoes": [
+      "Ser um dos maiores caranguejos de mangue do Brasil.",
+      "Construir suas tocas em formato de espiral.",
+      "Sua capacidade de voar curtas distâncias.",
+      "Ter uma coloração azul brilhante."
+    ],
+    "respostaCorreta": "Ser um dos maiores caranguejos de mangue do Brasil.",
+    "curiosidade": "O caranguejo-uçá desempenha um papel fundamental no ecossistema, pois suas tocas ajudam a oxigenar o solo do mangue."
+  },
+  {
+    "pergunta": "Qual a importância dos manguezais para o meio ambiente?",
+    "opcoes": [
+      "Funcionam como um 'berçário' para diversas espécies marinhas.",
+      "São responsáveis pela produção da maior parte do oxigênio do planeta.",
+      "Ajudam a regular o clima global, absorvendo o excesso de calor.",
+      "São a principal fonte de água potável para muitas cidades costeiras."
+    ],
+    "respostaCorreta": "Funcionam como um 'berçário' para diversas espécies marinhas.",
+    "curiosidade": "Cerca de 75% dos peixes comercialmente importantes dependem dos manguezais em alguma fase de suas vidas."
+  },
+  {
+    "pergunta": "Qual das seguintes aves é frequentemente encontrada em manguezais?",
+    "opcoes": [
+      "Pinguim",
+      "Guará",
+      "Avestruz",
+      "Pombo-correio"
+    ],
+    "respostaCorreta": "Guará",
+    "curiosidade": "A cor vermelha vibrante dos guarás vem dos pigmentos dos caranguejos que eles comem."
+  },
+  {
+    "pergunta": "O que é 'litter', no contexto de um manguezal?",
+    "opcoes": [
+      "A camada de folhas, galhos e outros detritos orgânicos que se acumulam no solo.",
+      "Um tipo específico de alga que cresce nas raízes das árvores de mangue.",
+      "O som que os caranguejos fazem ao se moverem pela lama.",
+      "Uma doença que afeta as árvores de mangue."
+    ],
+    "respostaCorreta": "A camada de folhas, galhos e outros detritos orgânicos que se acumulam no solo.",
+    "curiosidade": "O 'litter' é a base da cadeia alimentar do manguezal, fornecendo nutrientes para muitos organismos."
+  }
+]
